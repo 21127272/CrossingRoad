@@ -1,0 +1,10 @@
+./gameData/nhan.txt
+./gameData/l.txt
+./gameData/lll.txt
+./gameData/hao.txt
+./gameData/hao.txt
+./gameData/hao.txt
+./gameData/h.txt
+./gameData/hhh.txt
+./gameData/no.txt
+./gameData/hhooo.txt
